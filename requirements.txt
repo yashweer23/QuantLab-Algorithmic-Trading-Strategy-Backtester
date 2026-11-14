@@ -1,0 +1,6 @@
+# Tested on Python 3.12. Use standard 64-bit Python 3.11–3.13; not Python 3.14.
+numpy==2.3.5
+pandas==2.2.3
+yfinance==1.7.0
+plotly==6.9.0
+streamlit==1.64.0
